@@ -1,2 +1,5 @@
 rootProject.name = 'backend-java-movies'
+include 'domain'
+include 'application'
+include 'infrastructure'
 
